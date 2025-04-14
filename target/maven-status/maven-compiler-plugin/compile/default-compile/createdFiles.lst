@@ -1,0 +1,17 @@
+com\myproject\Workr\config\AppConfig$1.class
+com\myproject\Workr\config\JwtTokenValidator.class
+com\myproject\Workr\config\JwtConstant.class
+com\myproject\Workr\DTO\IssueDTO.class
+com\myproject\Workr\domain\PlanType.class
+com\myproject\Workr\domain\SubscriptionType.class
+com\myproject\Workr\config\JwtProvider.class
+com\myproject\Workr\model\Message.class
+com\myproject\Workr\model\Project.class
+com\myproject\Workr\config\WebsocketConfig.class
+com\myproject\Workr\WorkrApplication.class
+com\myproject\Workr\model\User.class
+com\myproject\Workr\model\Subscription.class
+com\myproject\Workr\config\AppConfig.class
+com\myproject\Workr\model\Comment.class
+com\myproject\Workr\model\Chat.class
+com\myproject\Workr\model\Issue.class
